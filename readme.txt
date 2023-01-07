@@ -1,1 +1,1 @@
-Tarot App in HTML, CSS, Javascript developed by Noorain Kazmi
+Tarot App in HTML, CSS, Javascript
